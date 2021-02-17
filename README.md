@@ -4,8 +4,7 @@
 
 * 🎓 Ciência da Computação - UFLA
 * 🧑‍💻 Programando desde 2016
-* 🔭 Curto filosofia e psicologia
-* 📻 Adoro livros, series, musicas, filmes...
+* 📻 Adoro livros, desenhos, series, musicas, filmes...
 * 📔 Membro da Comp Jr. 
 * 💬 Tá afim de falar comigo? Só chegar:
 
@@ -14,7 +13,7 @@
 </a>
 <a href="mailto:rgomiguel17@gmail.com">
   <img align="left" alt="E-mail" width="18px" src="https://image.flaticon.com/icons/png/512/8/8807.png" />
-</a>
+</a><br/>
 <hr/>
 
 <p> Tecnologias que estudei:</p>
