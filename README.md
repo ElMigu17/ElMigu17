@@ -8,7 +8,7 @@
 * 📔 Membro da Comp Jr. 
 * 💬 Tá afim de falar comigo? Só chegar:
 
-<div style="margin-left: 30px">
+<div style="margin-left: 300px">
   <a href="https://www.linkedin.com/in/miguelrgo/">
     <img align="left" alt="LinkedIN" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/-Arduino%20UNO-333333?style=flat&logo=arduino" alt="logo do arduino" />
 
 <p> Tecnologias que eu estudo:</p>
-<div style="display: flex; flex-directions: row">
+<div style="display: flex; flex-directions: row; justify-itens: space-around; width: 500px">
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=c%2B%2B&logoColor=2a90ea" alt="logo do c++" />
   <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=e06c00" alt="logo do java" />
   <img src="https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js" alt="logo do Vue " />
