@@ -1,6 +1,6 @@
 ### Olá ser humano (ou robô)
 
-![](https://am23.mediaite.com/tms/cnt/uploads/2015/11/beemo.gif)
+![BMO dancing](https://am23.mediaite.com/tms/cnt/uploads/2015/11/beemo.gif)
 
 * Ciência da Computação - UFLA
 * Programando desde 2016
@@ -25,6 +25,7 @@
 <p> Tecnologias que pretendo estudar:</p>
 <div style="display: flex; flex-directions: row">
   <img src="https://img.shields.io/badge/-Haskell-333333?style=flat&logo=haskell" alt="logo do haskell" />
+  <img src="[Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js" alt="logo do haskell" />
 </div>
 
 
