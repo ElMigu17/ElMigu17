@@ -8,12 +8,15 @@
 * 📔 Membro da Comp Jr. 
 * 💬 Tá afim de falar comigo? Só chegar:
 
-<a href="https://www.linkedin.com/in/miguelrgo/">
-  <img align="left" alt="LinkedIN" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:rgomiguel17@gmail.com">
-  <img align="left" alt="E-mail" width="18px" src="https://image.flaticon.com/icons/png/512/8/8807.png" />
-</a><br/>
+<div style="margin-left: 30px">
+  <a href="https://www.linkedin.com/in/miguelrgo/">
+    <img align="left" alt="LinkedIN" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="mailto:rgomiguel17@gmail.com">
+    <img align="left" alt="E-mail" width="18px" src="https://image.flaticon.com/icons/png/512/8/8807.png" />
+  </a>
+</div>
+<br/>
 <hr/>
 
 <p> Tecnologias que estudei:</p>
