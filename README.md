@@ -1,10 +1,12 @@
 ### Olá ser humano (ou robô)
 
-![BMO dancing](https://am23.mediaite.com/tms/cnt/uploads/2015/11/beemo.gif)
+![BMO dançando](https://am23.mediaite.com/tms/cnt/uploads/2015/11/beemo.gif)
 
-* Ciência da Computação - UFLA
-* Programando desde 2016
-* Curto filosofia e psicologia
+* 🎓 Ciência da Computação - UFLA
+* 🧑‍💻 Programando desde 2016
+* 🔭 Curto filosofia e psicologia
+* 📻 Adoro livros, series, musicas, filmes...
+* 📔 Membro da Comp Jr. 
 
 <hr/>
 <p> Tecnologias que estudei:</p>
@@ -29,17 +31,4 @@
 </div>
 
 
-<!--
-**ElMigu17/ElMigu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
