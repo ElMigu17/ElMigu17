@@ -7,8 +7,16 @@
 * 🔭 Curto filosofia e psicologia
 * 📻 Adoro livros, series, musicas, filmes...
 * 📔 Membro da Comp Jr. 
+* 💬 Tá afim de falar comigo? Só chegar:
 
+<a href="https://www.linkedin.com/in/miguelrgo/">
+  <img align="left" alt="LinkedIN" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:rgomiguel17@gmail.com">
+  <img align="left" alt="E-mail" width="18px" src="https://image.flaticon.com/icons/png/512/8/8807.png" />
+</a>
 <hr/>
+
 <p> Tecnologias que estudei:</p>
 <img src="https://img.shields.io/badge/-Arduino%20UNO-333333?style=flat&logo=arduino" alt="logo do arduino" />
 
