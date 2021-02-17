@@ -25,7 +25,7 @@
 <p> Tecnologias que pretendo estudar:</p>
 <div style="display: flex; flex-directions: row">
   <img src="https://img.shields.io/badge/-Haskell-333333?style=flat&logo=haskell" alt="logo do haskell" />
-  <img src="[Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js" alt="logo do haskell" />
+  <img src="https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933" alt="logo do node" />
 </div>
 
 
