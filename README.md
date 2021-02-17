@@ -13,10 +13,10 @@
 <p> Tecnologias que eu estudo:</p>
 <div style="display: flex; flex-directions: row">
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=c%2B%2B&logoColor=2a90ea" alt="logo do c++" />
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="logo do java" />
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=e06c00" alt="logo do java" />
   <img src="https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js" alt="logo do Vue " />
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="logo da html" />
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3" alt="logo do css" />
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=196eb3" alt="logo do css" />
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="logo do js" />
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="logo do python" />
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="logo do git" />
@@ -24,7 +24,7 @@
 
 <p> Tecnologias que pretendo estudar:</p>
 <div style="display: flex; flex-directions: row">
-  <img src="https://img.shields.io/badge/-Haskell-333333?style=flat&logo=haskell" alt="logo do haskell" />
+  <img src="https://img.shields.io/badge/-Haskell-333333?style=flat&logo=haskell&logoColor=52457c" alt="logo do haskell" />
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933" alt="logo do node" />
 </div>
 
