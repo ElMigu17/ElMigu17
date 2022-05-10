@@ -5,7 +5,6 @@
 * 🎓 Ciência da Computação - UFLA
 * 🧑‍💻 Programando desde 2016
 * 📻 Adoro livros, desenhos, series, musicas, filmes...
-* 📔 Membro da Comp Jr. 
 * 💬 Tá afim de falar comigo? Só chegar:
 
 <div style="margin-left: 300px">
